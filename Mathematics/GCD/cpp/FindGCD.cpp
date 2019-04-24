@@ -1,6 +1,6 @@
 
 // C++ program to find GCD of two numbers
-#include <iostream>
+#include <bits/stdc++.h>
 
 // Recursive function to return gcd of a and b
 int gcd(int a, int b){
